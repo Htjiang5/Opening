@@ -1,0 +1,13 @@
+# VS Code 本地配置
+.vscode/
+
+# C/C++ 编译结果
+*.exe
+*.obj
+*.o
+
+# Visual Studio 本地配置
+.vs/
+
+# macOS 自动生成的文件
+.DS_Store
